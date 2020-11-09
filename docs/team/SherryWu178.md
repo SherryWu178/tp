@@ -33,7 +33,7 @@ Given below are my contributions to the project.
     * Rename occurrence in relevant code and .json files
  
 * **Enhancements to existing features**:
-  * Modify delete person feature so that when a person is deleted, all the related booking(s) are deleted (cascading delete). [#04](https://github.com/AY2021S1-CS2103-W14-2/tp/pull/204)
+  * Modify delete person feature so that when a person is deleted, all the related booking(s) are deleted (cascading delete). [#204](https://github.com/AY2021S1-CS2103-W14-2/tp/pull/204)
 
 * **Documentation**:
   * Developer Guide:
